@@ -1,0 +1,6 @@
+diffusers>=0.21.0
+transformers
+accelerate
+safetensors
+torch
+torchvision
